@@ -16,6 +16,50 @@ O sistema foi construído para coletar, tratar, analisar e prever as pontuaçõe
   - Limite de 5 jogadores por clube.
 - **Dashboard Interativo**: Uma interface amigável construída com Streamlit para controlar o processo e visualizar os resultados.
 
+## 🔑 Configuração da API de Odds
+
+Para que o sistema consiga prever o favoritismo dos times de forma precisa, ele utiliza dados de casas de apostas em tempo real.
+
+1.  **Crie uma conta gratuita** em [The Odds API](https://the-odds-api.com/).
+2.  Após confirmar seu e-mail, você receberá uma **API Key**.
+3.  Ao abrir o dashboard do projeto, você verá um campo chamado **"Sua Chave da The Odds API"** na barra lateral.
+4.  Cole sua chave lá para habilitar a atualização de odds.
+
+---
+
+## 🖥️ Como Usar o Dashboard
+
+O sistema é dividido em 4 abas principais, cada uma com um propósito específico:
+
+### 1. 📋 Escalar Time
+É onde a "mágica" acontece. Siga esta ordem:
+*   **"1. Atualizar Dados da Rodada"**: Baixa os dados mais recentes do Cartola e as odds (se a chave estiver preenchida).
+*   **"2. Gerar Time Ideal"**: O otimizador calcula a melhor combinação de jogadores baseada na inteligência escolhida.
+*   **Copiloto (Manual)**: Você pode forçar a escalação de jogadores específicos (Travas) ou banir jogadores que não quer de jeito nenhum.
+
+### 2. 📊 Análise de Performance
+Aqui você pode ver o quão bem a IA está performando em comparação com:
+*   **Você (Vini)**: Compara com suas pontuações reais.
+*   **Time Perfeito**: O máximo de pontos que alguém poderia ter feito na rodada.
+*   **Diferentes IAs**: Compara modelos com e sem a inteligência de mando de campo.
+
+### 3. 📈 Análises Estatísticas
+Inspirada em plataformas como o BIA Score, esta aba traz:
+*   **Análise de Goleiros e Atacantes**: Quem tem mais chance de SG ou Gol.
+*   **Recorrência**: Jogadores que mantém constância de pontos.
+*   **Cartola + FBref**: Cruzamento de dados do Cartola com estatísticas avançadas (xG, xA) do futebol mundial.
+
+### 4. 📉 Dashboard Analítico
+Visualizações gráficas sobre a saúde do seu time e tendências do campeonato.
+
+### 🛠️ Ferramentas Avançadas (Barra Lateral)
+Para usuários que querem ir além:
+*   **"Treinar Novo Modelo Preditivo"**: Atualiza o cérebro da IA com os dados mais recentes de todas as rodadas jogadas até hoje.
+*   **"Simular Melhor Risco (Backtest)"**: Testa diferentes níveis de "ousadia" da IA nas últimas 10 rodadas para ver qual teria dado mais pontos.
+*   **"🧹 Limpar Cache"**: Resolve problemas caso os dados pareçam travados ou desatualizados.
+
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **Análise de Dados**: `pandas`, `numpy`
