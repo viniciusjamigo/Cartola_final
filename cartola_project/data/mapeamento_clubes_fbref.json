@@ -1,0 +1,23 @@
+[
+    {"cartola_nome": "FLA", "fbref_nome": "Flamengo", "clube_id": 262},
+    {"cartola_nome": "PAL", "fbref_nome": "Palmeiras", "clube_id": 275},
+    {"cartola_nome": "BOT", "fbref_nome": "Botafogo (RJ)", "clube_id": 263},
+    {"cartola_nome": "COR", "fbref_nome": "Corinthians", "clube_id": 264},
+    {"cartola_nome": "BAH", "fbref_nome": "Bahia", "clube_id": 265},
+    {"cartola_nome": "FLU", "fbref_nome": "Fluminense", "clube_id": 266},
+    {"cartola_nome": "VAS", "fbref_nome": "Vasco da Gama", "clube_id": 267},
+    {"cartola_nome": "SAO", "fbref_nome": "São Paulo", "clube_id": 276},
+    {"cartola_nome": "CAM", "fbref_nome": "Atlético Mineiro", "clube_id": 282},
+    {"cartola_nome": "CRU", "fbref_nome": "Cruzeiro", "clube_id": 283},
+    {"cartola_nome": "GRE", "fbref_nome": "Grêmio", "clube_id": 284},
+    {"cartola_nome": "INT", "fbref_nome": "Internacional", "clube_id": 285},
+    {"cartola_nome": "RBB", "fbref_nome": "RB Bragantino", "clube_id": 280},
+    {"cartola_nome": "FOR", "fbref_nome": "Fortaleza", "clube_id": 356},
+    {"cartola_nome": "VIT", "fbref_nome": "Vitória", "clube_id": 287},
+    {"cartola_nome": "JUV", "fbref_nome": "Juventude", "clube_id": 286},
+    {"cartola_nome": "SAN", "fbref_nome": "Santos", "clube_id": 277},
+    {"cartola_nome": "CEA", "fbref_nome": "Ceará", "clube_id": 354},
+    {"cartola_nome": "SPT", "fbref_nome": "Sport Recife", "clube_id": 292},
+    {"cartola_nome": "MIR", "fbref_nome": "Mirassol", "clube_id": 2305}
+]
+

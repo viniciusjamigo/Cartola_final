@@ -1,0 +1,23 @@
+# --- Análise e Manipulação de Dados ---
+pandas
+numpy
+
+# --- Interface e Dashboard ---
+streamlit
+
+# --- Coleta de Dados ---
+requests
+beautifulsoup4  # Para scraping do FBref
+soccerdata  # Para coletar dados do FBref (pode não suportar Série A do Brasil)
+selenium  # Para scraping com navegador (contorna proteção anti-bot)
+
+# --- Machine Learning ---
+scikit-learn
+xgboost>=1.6.0 # Versão mínima para a sintaxe moderna
+joblib
+
+# --- Otimização ---
+pulp
+
+# --- Outros ---
+tqdm
