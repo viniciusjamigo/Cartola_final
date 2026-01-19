@@ -1,0 +1,55 @@
+Clube,Pos,Nome,Jogos,Minutos,Minutos Titular,Média,M. Básica,Prob. de SG (%),Prob. Vitória (%)
+CAM,GOL,Gabriel Delfim,1,90,0,1.9,1.9,0.0,61.0
+CAM,GOL,Everson,27,2430,0,4.75,5.43,44.4,61.0
+COR,GOL,Hugo Souza,19,1710,0,3.4,5.08,47.4,58.6
+COR,GOL,Felipe Longo,5,450,0,2.72,3.34,20.0,58.6
+COR,GOL,Matheus Donelli,4,360,0,3.08,4.03,25.0,58.6
+COR,GOL,Kauê,1,90,0,2.9,2.9,0.0,58.6
+MIR,GOL,Walter,26,2340,0,6.58,7.22,42.3,50.0
+GRE,GOL,Gabriel Grando,6,540,0,4.86,6.17,33.3,50.0
+Clube 354,GOL,Fernando Miguel,6,540,0,6.18,6.18,50.0,50.0
+Clube 356,GOL,Magrão,2,180,0,2.9,2.9,0.0,50.0
+Clube 356,GOL,Brenno,9,810,0,3.31,5.42,11.1,50.0
+Clube 286,GOL,Ruan Carneiro,4,360,0,3.32,3.32,25.0,50.0
+Clube 356,GOL,Vinicius Silvestre,2,180,0,4.4,4.4,0.0,50.0
+FLA,GOL,Rossi,31,2790,0,5.62,6.47,58.1,50.0
+Clube 286,GOL,Gustavo,9,810,0,3.08,3.43,11.1,50.0
+Clube 354,GOL,Richard,0,0,0,-1.0,,0.0,50.0
+Clube 286,GOL,Marcão,6,540,0,5.93,5.93,16.7,50.0
+Clube 292,GOL,Caíque França,14,1260,0,4.24,4.55,14.3,50.0
+Clube 356,GOL,Helton Leite,3,270,0,1.78,2.6,0.0,50.0
+Clube 356,GOL,João Ricardo,11,990,0,5.87,7.43,54.5,50.0
+Clube 354,GOL,Bruno Ferreira,25,2250,0,3.93,4.79,32.0,50.0
+MIR,GOL,Alex Muralha,6,540,0,2.11,2.8,0.0,50.0
+GRE,GOL,Tiago Volpi,26,2340,0,4.01,4.72,19.2,50.0
+Clube 286,GOL,Jandrei,13,1170,0,2.14,2.9,15.4,50.0
+Clube 292,GOL,Gabriel,19,1710,0,4.19,4.88,15.8,50.0
+BOT,GOL,Raul,2,180,0,0.6,0.6,0.0,49.6
+BOT,GOL,Léo Linck,12,1080,0,3.89,4.74,50.0,49.6
+BOT,GOL,Neto,2,180,0,2.03,3.55,0.0,49.6
+BOT,GOL,John,16,1440,0,6.11,6.11,56.2,49.6
+PAL,GOL,Marcelo Lomba,2,180,0,3.7,3.7,0.0,30.2
+PAL,GOL,Carlos Miguel,5,450,0,8.52,10.56,80.0,30.2
+PAL,GOL,Weverton,20,1800,0,4.2,5.68,45.0,30.2
+SAO,GOL,Young,3,270,0,1.77,1.77,0.0,30.1
+SAO,GOL,Rafael,30,2700,0,4.98,5.81,36.7,30.1
+VIT,GOL,Thiago Couto,6,540,0,7.2,8.57,66.7,29.0
+VIT,GOL,Lucas Arcanjo,24,2160,0,4.33,5.54,29.2,29.0
+BAH,GOL,Marcos Felipe,10,900,0,4.35,4.86,40.0,25.2
+BAH,GOL,Danilo Fernandes,0,0,0,-1.0,,0.0,25.2
+BAH,GOL,Ronaldo,24,2160,0,4.9,5.35,33.3,25.2
+RBB,GOL,Cleiton,29,2610,0,3.97,4.35,24.1,25.0
+RBB,GOL,Lucão,4,360,0,5.7,5.7,25.0,25.0
+VAS,GOL,Daniel Fuzato,1,90,0,-1.27,0.3,0.0,23.7
+VAS,GOL,Léo Jardim,28,2520,0,3.81,4.7,25.0,23.7
+CRU,GOL,Cássio,32,2880,0,5.51,6.09,46.9,20.5
+CRU,GOL,Léo Aragão,4,360,0,5.98,5.98,50.0,20.5
+FLU,GOL,Fábio,30,2700,0,4.35,5.43,50.0,20.3
+FLU,GOL,Marcelo Pitaluga,0,0,0,-1.0,,0.0,20.3
+INT,GOL,Ivan,5,450,0,4.0,4.8,40.0,19.1
+INT,GOL,Anthoni,13,1170,0,1.7,2.95,23.1,19.1
+INT,GOL,Rochet,14,1260,0,3.26,3.71,14.3,19.1
+INT,GOL,Diego,0,0,0,-1.0,,0.0,19.1
+SAN,GOL,Diógenes,1,90,0,3.9,3.9,0.0,11.2
+SAN,GOL,João Paulo,0,0,0,-1.0,,0.0,11.2
+SAN,GOL,Gabriel Brazão,31,2790,0,4.29,5.35,29.0,11.2

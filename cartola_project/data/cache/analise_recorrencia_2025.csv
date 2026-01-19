@@ -1,0 +1,726 @@
+Clube,Jogador,Status,3 Jogos,5 Jogos,MAX 3,MAX 5,Últimos 3 Jogos (%),% D
+SAN,Neymar MEI,0,16.23,13.26,3,5,100.0,94.7
+CRU,Kaio Jorge ATA,0,16.13,11.96,3,5,100.0,93.9
+CAM,Hulk ATA,0,16.0,10.5,3,5,100.0,92.9
+SAN,Guilherme ATA,0,13.67,9.88,3,5,100.0,100.0
+PAL,Vitor Roque ATA,0,13.43,11.26,3,5,100.0,93.5
+SAN,Igor Vinícius LAT,0,13.07,8.6,3,5,100.0,81.8
+Clube 356,Bareiro ATA,0,12.37,11.06,3,5,66.67,77.8
+FLU,Canobbio ATA,0,12.1,9.92,3,5,100.0,96.4
+GRE,Carlos Vinícius ATA,0,11.9,9.74,3,5,100.0,92.3
+FLA,Pedro ATA,0,11.5,8.92,3,5,66.67,81.0
+FLU,Soteldo ATA,0,11.43,7.2,3,5,100.0,76.2
+VIT,Thiago Couto GOL,0,11.07,9.44,3,5,66.67,85.7
+Clube 356,Juan Vojvoda TEC,0,10.68,8.16,3,5,100.0,96.7
+Clube 356,Herrera ATA,0,10.57,8.34,3,5,100.0,100.0
+FLA,Wesley LAT,0,10.33,8.82,3,5,100.0,100.0
+FLA,Jorginho MEI,0,10.17,8.9,3,5,100.0,88.2
+FLU,Serna ATA,0,10.0,9.14,3,5,100.0,90.6
+GRE,Pavón ATA,0,9.97,6.98,3,5,100.0,88.0
+Clube 356,Pochettino MEI,0,9.83,7.54,3,5,100.0,82.6
+CAM,Rony ATA,0,9.77,7.72,3,5,100.0,82.8
+BOT,Alex Telles LAT,0,9.73,7.28,3,5,66.67,91.3
+BOT,Jair ZAG,0,9.7,7.44,3,5,100.0,90.0
+FLA,Arrascaeta MEI,0,9.67,9.7,3,5,100.0,93.8
+CAM,Jorge Sampaoli TEC,0,9.4,8.26,3,5,33.33,68.8
+Clube 356,João Ricardo GOL,0,9.37,7.22,3,5,66.67,84.6
+VAS,Rayan ATA,0,9.33,7.78,3,5,100.0,100.0
+Clube 356,Bruninho MEI,0,9.3,9.3,1,1,33.33,100.0
+SAO,Luis Zubeldía TEC,0,9.15,7.94,3,5,100.0,96.0
+MIR,Reinaldo LAT,0,9.1,8.18,3,5,100.0,90.6
+RBB,Jhon Jhon MEI,0,9.1,7.56,3,5,100.0,96.8
+COR,Yuri Alberto ATA,0,9.07,7.74,3,5,66.67,88.5
+BAH,Ademir ATA,0,9.03,8.62,3,5,100.0,96.6
+SAO,Sabino ZAG,0,9.03,6.66,3,5,100.0,90.0
+VAS,Paulo Henrique LAT,0,8.93,10.76,3,5,100.0,92.3
+MIR,Walter GOL,0,8.9,6.82,3,5,66.67,92.9
+BAH,Acevedo MEI,0,8.87,6.78,3,5,100.0,83.3
+BOT,Marçal LAT,0,8.8,8.38,3,5,66.67,81.2
+VIT,Baralhas MEI,0,8.73,6.48,3,5,100.0,84.6
+VIT,Lucas Halter ZAG,0,8.7,8.48,3,5,100.0,77.4
+SAN,Thaciano MEI,0,8.53,5.7,3,5,66.67,68.4
+VIT,Jair Ventura TEC,0,8.52,7.67,3,5,66.67,86.7
+SAN,Gabriel Brazão GOL,0,8.47,5.72,3,5,100.0,83.8
+PAL,Bruno Fuchs ZAG,0,8.4,8.44,3,5,66.67,83.3
+SAN,Souza LAT,0,8.33,6.08,3,5,100.0,95.7
+BAH,Santiago Arias LAT,0,8.3,6.22,3,5,100.0,70.0
+SAN,Adonis Frías ZAG,0,8.3,5.92,3,5,100.0,91.7
+CAM,Dudu ATA,0,8.23,6.36,3,5,100.0,68.8
+PAL,Carlos Miguel GOL,0,8.2,10.56,3,5,100.0,83.3
+BOT,Alexander Barboza ZAG,0,8.1,5.9,3,5,66.67,90.9
+CAM,Junior Alonso ZAG,0,8.07,6.02,3,5,66.67,85.7
+SAO,Maik LAT,0,7.9,7.04,3,5,100.0,100.0
+CAM,Alexsander MEI,0,7.9,6.12,3,5,100.0,100.0
+FLU,Thiago Silva ZAG,0,7.87,7.02,3,5,66.67,73.9
+VIT,Erick ATA,0,7.83,6.18,3,5,100.0,93.1
+SAO,Bobadilla MEI,0,7.83,6.42,3,5,66.67,76.7
+VIT,Lucas Arcanjo GOL,0,7.77,5.16,3,5,66.67,82.8
+PAL,Micael ZAG,0,7.7,5.56,3,5,100.0,83.3
+GRE,André ATA,0,7.67,5.58,3,5,66.67,95.8
+FLU,Julio Fidélis LAT,0,7.6,7.6,3,3,100.0,100.0
+VIT,Raúl Cáceres LAT,0,7.4,7.54,3,5,100.0,66.7
+SAN,Zé Ivaldo ZAG,0,7.4,5.82,3,5,100.0,85.0
+SAO,Enzo Díaz LAT,0,7.37,8.82,3,5,100.0,88.9
+FLU,Marcão TEC,0,7.34,7.34,1,1,33.33,100.0
+FLU,Fábio GOL,0,7.33,6.5,3,5,100.0,83.3
+PAL,Piquerez LAT,0,7.33,5.46,3,5,100.0,89.3
+FLU,Renê LAT,0,7.33,7.02,3,5,100.0,96.2
+BAH,Luciano Juba LAT,0,7.23,6.54,3,5,100.0,87.9
+SAN,João Schmidt MEI,0,7.2,5.08,3,5,100.0,70.0
+SAO,Rafael GOL,0,7.17,7.44,3,5,100.0,88.2
+Clube 292,Caíque França GOL,0,7.13,6.28,3,5,100.0,93.3
+Clube 356,Lucca Prior MEI,0,7.0,6.32,3,5,100.0,72.7
+Clube 354,Fernando Miguel GOL,0,6.97,6.74,3,5,100.0,100.0
+CRU,Kaiki Bruno LAT,0,6.97,8.0,3,5,66.67,97.1
+MIR,Negueba ATA,0,6.9,6.28,3,5,100.0,90.0
+GRE,Mano Menezes TEC,0,6.88,7.01,3,5,66.67,91.2
+VAS,Andrés Gómez ATA,0,6.87,5.28,3,5,100.0,100.0
+BAH,Rodrigo Nestor MEI,0,6.87,6.56,3,5,100.0,85.0
+VIT,Zé Marcos ZAG,0,6.87,5.74,3,5,100.0,66.7
+FLA,Filipe Luís TEC,0,6.85,5.98,3,5,33.33,92.1
+MIR,Lucas Ramon LAT,0,6.83,6.14,3,5,100.0,93.1
+VIT,Jamerson LAT,0,6.83,5.7,3,5,66.67,91.7
+Clube 286,Igor Formiga LAT,0,6.8,9.52,3,5,100.0,87.5
+CRU,Lautaro Díaz ATA,0,6.77,4.72,3,5,66.67,65.0
+CAM,Rubens MEI,0,6.73,5.8,3,5,100.0,100.0
+CRU,Matheus Pereira MEI,0,6.7,5.26,3,5,100.0,100.0
+CAM,Guilherme Arana LAT,0,6.7,6.2,3,5,100.0,89.5
+GRE,Cristaldo MEI,0,6.67,5.4,3,5,100.0,92.9
+MIR,Rafael Guanaes TEC,0,6.63,6.27,3,5,66.67,92.1
+FLU,Nonato MEI,0,6.63,4.68,3,5,100.0,95.0
+PAL,Flaco López ATA,0,6.6,6.6,3,5,100.0,93.3
+INT,Ramon LAT,0,6.57,5.56,3,5,100.0,100.0
+COR,Hugo Souza GOL,0,6.57,5.1,3,5,33.33,73.1
+COR,Gustavo Henrique ZAG,0,6.5,7.72,3,5,66.67,82.6
+GRE,Gabriel Grando GOL,0,6.5,6.82,3,5,100.0,85.7
+RBB,Cauê LAT,0,6.5,6.5,1,1,33.33,50.0
+GRE,Igor Serrote LAT,0,6.47,8.58,3,5,100.0,100.0
+BAH,Ronaldo GOL,0,6.47,5.78,3,5,100.0,92.3
+VIT,Neris ZAG,0,6.47,5.56,3,5,100.0,60.0
+FLU,Gabriel Fuentes LAT,0,6.43,4.38,3,5,66.67,81.8
+PAL,Marcos Rocha LAT,0,6.37,5.74,3,5,100.0,100.0
+BAH,Rogério Ceni TEC,0,6.35,6.29,3,5,100.0,94.7
+INT,Borré ATA,0,6.33,6.44,3,5,66.67,79.3
+GRE,Balbuena ZAG,0,6.33,6.33,3,3,100.0,100.0
+SAO,Rafael Tolói ZAG,0,6.33,7.18,3,5,66.67,71.4
+FLU,Samuel Xavier LAT,0,6.3,6.02,3,5,100.0,92.6
+INT,Carbonero ATA,0,6.27,4.04,3,5,66.67,91.3
+FLA,Emerson Royal LAT,0,6.23,5.46,3,5,100.0,92.3
+MIR,João Victor ZAG,0,6.17,6.46,3,5,66.67,87.1
+RBB,Matheus Fernandes MEI,0,6.13,4.3,3,5,66.67,77.8
+FLA,Carrascal MEI,0,6.13,6.42,3,5,100.0,93.3
+PAL,Abel Ferreira TEC,0,6.11,7.59,3,5,33.33,86.8
+CRU,William LAT,0,6.1,7.62,3,5,100.0,90.0
+GRE,Jemerson ZAG,0,6.1,5.7,3,5,66.67,66.7
+VAS,Barros MEI,0,6.1,4.1,3,5,66.67,87.5
+INT,Mercado ZAG,0,6.03,4.7,3,5,66.67,92.3
+FLA,Samuel Lino ATA,0,6.03,7.4,3,5,66.67,94.7
+Clube 286,Marcelo Hermes LAT,0,6.0,7.14,3,5,100.0,95.0
+SAO,Nicolas LAT,0,6.0,6.0,1,1,33.33,100.0
+PAL,Khellven LAT,0,5.93,7.02,3,5,100.0,90.9
+Clube 292,Pablo ATA,0,5.93,4.08,3,5,66.67,68.4
+BOT,David Ricardo ZAG,0,5.93,8.2,3,5,66.67,75.0
+CAM,Igor Gomes MEI,0,5.9,3.88,3,5,100.0,82.1
+CAM,Cuello ATA,0,5.9,6.42,3,5,100.0,93.8
+CRU,Léo Aragão GOL,0,5.87,5.98,3,4,100.0,100.0
+FLA,Cleiton ZAG,0,5.85,5.85,2,2,66.67,100.0
+MIR,Alesson ATA,0,5.83,4.74,3,5,100.0,91.3
+BOT,Mateo Ponte LAT,0,5.8,4.14,3,5,100.0,77.8
+GRE,Tiago Volpi GOL,0,5.8,4.7,3,5,66.67,89.7
+GRE,Amuzu ATA,0,5.77,5.86,3,5,66.67,90.5
+BAH,Gilberto LAT,0,5.73,6.16,3,5,66.67,85.7
+CRU,Christian MEI,0,5.73,4.42,3,5,66.67,90.0
+RBB,Cleiton GOL,0,5.7,4.48,3,5,66.67,93.5
+FLU,Lucho Acosta MEI,0,5.7,5.54,3,5,100.0,92.9
+SAN,César Sampaio TEC,0,5.67,5.67,3,3,100.0,100.0
+FLU,Martinelli MEI,0,5.67,3.94,3,5,66.67,77.4
+SAO,Luciano ATA,0,5.63,6.06,3,5,66.67,83.9
+INT,Aguirre LAT,0,5.63,4.96,3,5,66.67,93.3
+FLU,Freytes ZAG,0,5.63,4.66,3,5,66.67,87.1
+RBB,Isidro Pitta ATA,0,5.6,4.88,3,5,33.33,61.9
+PAL,Jefté LAT,0,5.6,5.92,3,5,100.0,71.4
+INT,Abel Braga TEC,0,5.6,5.6,2,2,66.67,100.0
+CAM,Natanael LAT,0,5.57,6.64,3,5,100.0,93.3
+Clube 286,Ewerthon LAT,0,5.57,4.82,3,5,33.33,72.2
+GRE,Willian MEI,0,5.57,5.57,3,3,66.67,75.0
+BOT,Vitinho LAT,0,5.53,5.84,3,5,66.67,90.6
+CRU,Fagner LAT,0,5.53,5.8,3,5,100.0,100.0
+Clube 356,Breno Lopes ATA,0,5.53,5.82,3,5,100.0,96.3
+INT,Ricardo Mathias ATA,0,5.53,5.4,3,5,100.0,72.7
+COR,Charles MEI,0,5.53,6.02,3,5,66.67,47.1
+BAH,Zé Guilherme LAT,0,5.5,5.5,2,2,66.67,66.7
+MIR,Felipe Jonatan LAT,0,5.5,5.5,2,2,66.67,33.3
+VIT,Rodrigo Chagas TEC,0,5.48,5.48,2,2,66.67,100.0
+GRE,Marlon LAT,0,5.47,7.48,3,5,100.0,93.1
+SAO,Hernán Crespo TEC,0,5.44,5.01,3,5,100.0,100.0
+CRU,Kauã Moraes LAT,0,5.43,5.32,3,4,66.67,80.0
+COR,André Ramalho ZAG,0,5.43,5.24,3,5,100.0,81.0
+GRE,Gustavo Martins ZAG,0,5.4,5.1,3,5,100.0,94.1
+CAM,Saravia LAT,0,5.37,3.88,3,5,100.0,84.6
+FLU,Thiago Santos ZAG,0,5.37,6.64,3,5,66.67,70.0
+BAH,Iago LAT,0,5.37,5.38,3,5,66.67,61.5
+FLA,Bruno Henrique ATA,0,5.37,9.26,3,5,100.0,80.0
+Clube 356,Brenno GOL,0,5.37,4.64,3,5,66.67,69.2
+Clube 286,Gerson Ramos TEC,0,5.35,5.35,1,1,33.33,100.0
+FLA,Varela LAT,0,5.33,5.08,3,5,100.0,85.0
+Clube 356,Martín Palermo TEC,0,5.31,5.0,3,5,66.67,87.5
+SAN,Pedro Caixinha TEC,0,5.3,5.3,2,2,66.67,100.0
+BOT,Danilo MEI,0,5.3,4.4,3,5,100.0,81.8
+MIR,Daniel Borges LAT,0,5.3,6.32,3,5,100.0,86.7
+BOT,Barrera MEI,0,5.3,3.32,3,5,100.0,100.0
+BOT,Jeffinho ATA,0,5.3,5.34,3,5,66.67,73.3
+MIR,Edson Carioca ATA,0,5.27,4.08,3,5,66.67,85.0
+VIT,Cantalapiedra ATA,0,5.27,4.64,3,5,100.0,94.1
+INT,Bernabéi LAT,0,5.27,4.86,3,5,100.0,100.0
+Clube 354,Vinícius Zanocelo MEI,0,5.27,3.86,3,5,100.0,85.7
+FLU,Keno ATA,0,5.23,5.7,3,5,33.33,68.8
+VIT,Renato Kayzer ATA,0,5.23,3.76,3,5,100.0,92.9
+INT,Alan Rodríguez MEI,0,5.2,4.1,3,5,100.0,86.7
+VIT,Paulo Roberto LAT,0,5.2,5.2,2,2,66.67,100.0
+INT,Fernando MEI,0,5.2,4.2,3,4,66.67,66.7
+SAN,Cleber Xavier TEC,0,5.18,4.89,3,5,100.0,93.3
+Clube 286,Edison Negueba ATA,0,5.17,4.62,3,4,100.0,80.0
+FLU,Hércules MEI,0,5.17,4.14,3,5,33.33,68.8
+BOT,Montoro MEI,0,5.17,5.34,3,5,100.0,100.0
+MIR,Renato Marques ATA,0,5.13,4.4,3,4,66.67,80.0
+GRE,Wagner Leonardo ZAG,0,5.13,5.62,3,5,100.0,77.8
+GRE,João Pedro LAT,0,5.1,4.3,3,5,66.67,71.4
+Clube 286,Gustavo GOL,0,5.1,4.28,3,5,66.67,90.0
+COR,Orlando Ribeiro TEC,0,5.1,5.1,2,2,66.67,100.0
+BOT,Cuiabano LAT,0,5.1,6.68,3,5,100.0,100.0
+SAN,JP Chermont LAT,0,5.07,4.48,3,5,66.67,83.3
+MIR,Carlos Eduardo ATA,0,5.07,4.04,3,5,100.0,82.6
+RBB,Eduardo Sasha ATA,0,5.07,4.22,3,5,66.67,76.7
+Clube 286,Gabriel Taliari ATA,0,5.03,8.24,3,5,100.0,87.5
+Clube 292,João Silva ZAG,0,5.03,4.06,3,5,0.0,57.1
+CRU,Janderson ZAG,0,5.0,5.0,1,1,33.33,100.0
+Clube 292,Antônio Carlos ZAG,0,5.0,5.0,1,1,33.33,33.3
+GRE,Viery ZAG,0,5.0,5.0,1,1,33.33,33.3
+BOT,Marquinhos ZAG,0,5.0,5.0,1,1,33.33,100.0
+VIT,Maykon LAT,0,5.0,4.08,3,5,100.0,100.0
+MIR,Luiz Otávio ZAG,0,5.0,5.0,1,1,33.33,25.0
+VIT,Edu ZAG,0,4.97,4.06,3,5,100.0,84.2
+SAN,João Basso ZAG,0,4.97,4.0,3,5,100.0,100.0
+BOT,Savarino MEI,0,4.97,3.76,3,5,66.67,80.0
+CAM,Ruan ZAG,0,4.97,5.5,3,5,100.0,100.0
+BOT,Nathan Fernandes ATA,0,4.93,4.7,3,5,100.0,77.8
+SAO,Rodriguinho MEI,0,4.93,3.74,3,5,66.67,66.7
+PAL,Facundo Torres ATA,0,4.9,5.74,3,5,33.33,77.8
+MIR,Jemmes ZAG,0,4.9,4.08,3,5,100.0,94.1
+COR,Raniele MEI,0,4.9,3.42,3,5,100.0,93.3
+COR,Ramón Díaz TEC,0,4.89,4.36,3,5,100.0,100.0
+MIR,José Aldo MEI,0,4.87,3.74,3,5,66.67,75.0
+BAH,Lucho Rodríguez ATA,0,4.87,3.58,3,5,100.0,77.8
+FLU,Arias MEI,0,4.87,4.02,3,5,100.0,100.0
+INT,Juninho ZAG,0,4.83,5.72,3,5,0.0,65.0
+FLA,Rossi GOL,0,4.83,4.34,3,5,66.67,88.6
+Clube 354,Nicolas LAT,0,4.83,4.76,3,5,100.0,91.7
+CAM,Everson GOL,0,4.83,8.08,3,5,100.0,90.0
+VIT,Claudinho LAT,0,4.83,4.46,3,5,33.33,60.0
+FLU,Renato Gaúcho TEC,0,4.82,5.2,3,5,100.0,91.3
+PAL,Lucas Evangelista MEI,0,4.77,4.98,3,5,66.67,73.7
+FLA,Léo Pereira ZAG,0,4.77,4.96,3,5,100.0,90.6
+SAO,Maílton LAT,0,4.77,4.58,3,5,100.0,87.5
+FLU,John Kennedy ATA,0,4.73,3.6,3,5,100.0,80.0
+INT,Bruno Gomes LAT,0,4.73,4.14,3,5,100.0,92.3
+Clube 286,Luan Freitas ZAG,0,4.7,4.84,3,5,66.67,92.3
+Clube 356,José Welison MEI,0,4.7,3.1,3,5,66.67,66.7
+Clube 286,Marcão GOL,0,4.7,4.82,3,5,100.0,100.0
+SAO,Matheus Alves MEI,0,4.7,3.46,3,5,33.33,71.4
+Clube 286,Ênio ATA,0,4.67,3.16,3,5,66.67,83.3
+VIT,Matheuzinho MEI,0,4.67,4.84,3,5,100.0,88.9
+BOT,Davide Ancelotti TEC,0,4.67,5.35,3,5,100.0,92.3
+CRU,Villalba ZAG,0,4.67,5.28,3,5,100.0,90.6
+Clube 354,Pedro Raul ATA,0,4.63,4.38,3,5,100.0,87.1
+RBB,Lucão GOL,0,4.63,5.7,3,4,100.0,100.0
+SAN,Luan Peres ZAG,0,4.6,3.5,3,5,100.0,95.8
+FLA,Danilo ZAG,0,4.6,4.54,3,5,100.0,78.9
+FLA,Viña LAT,0,4.6,4.06,3,5,33.33,75.0
+SAO,Tapia ATA,0,4.57,5.18,3,5,100.0,90.0
+PAL,Murilo ZAG,0,4.57,5.06,3,5,100.0,87.5
+SAO,Wendell LAT,0,4.57,6.58,3,5,100.0,86.7
+BOT,Artur ATA,0,4.57,6.62,3,5,100.0,88.0
+PAL,Ramón Sosa ATA,0,4.57,3.1,3,5,66.67,76.2
+INT,Alan Patrick MEI,0,4.57,7.26,3,5,100.0,96.7
+CAM,Caio Paulista LAT,0,4.57,3.14,3,5,100.0,87.5
+INT,Wesley ATA,0,4.53,3.3,3,5,100.0,100.0
+RBB,Alix Vinicius ZAG,0,4.53,2.78,3,5,100.0,62.5
+Clube 356,Deyverson ATA,0,4.53,3.98,3,5,66.67,72.7
+RBB,Vagner Mancini TEC,0,4.51,4.27,3,5,33.33,62.5
+SAO,Dinenno ATA,0,4.5,3.14,3,5,33.33,62.5
+SAO,Rigoni ATA,0,4.5,3.46,3,5,66.67,60.0
+GRE,Dodi MEI,0,4.5,2.9,3,5,66.67,69.0
+CAM,Iván Román ZAG,0,4.47,2.9,3,5,100.0,90.0
+BOT,Santiago Rodríguez MEI,0,4.43,3.84,3,5,66.67,87.5
+RBB,Lucas Barbosa ATA,0,4.4,3.78,3,5,100.0,83.9
+CAM,Gabriel Menino MEI,0,4.4,5.36,3,5,33.33,73.7
+PAL,Gustavo Gómez ZAG,0,4.4,5.7,3,5,100.0,84.0
+RBB,Davi Gomes ATA,0,4.4,3.42,3,4,33.33,66.7
+Clube 356,Vinicius Silvestre GOL,0,4.4,4.4,2,2,66.67,100.0
+COR,Dieguinho MEI,0,4.4,3.28,3,5,100.0,84.6
+CAM,Lucas Gonçalves TEC,0,4.39,4.39,1,1,33.33,100.0
+VAS,Philippe Coutinho MEI,0,4.37,3.36,3,5,66.67,92.9
+GRE,James Freitas TEC,0,4.35,4.35,1,1,33.33,100.0
+CAM,Alan Franco MEI,0,4.33,4.94,3,5,100.0,80.8
+Clube 292,Pedro Augusto MEI,0,4.33,4.24,3,5,66.67,64.3
+PAL,Allan MEI,0,4.33,4.02,3,5,100.0,83.3
+RBB,Fabinho MEI,0,4.33,3.2,3,5,100.0,77.8
+Clube 286,Alan Ruschel LAT,0,4.33,3.5,3,5,33.33,55.6
+INT,Thiago Maia MEI,0,4.33,2.94,3,5,66.67,76.7
+COR,Vitinho ATA,0,4.3,4.48,3,5,100.0,91.7
+CAM,Biel ATA,0,4.27,3.36,3,5,100.0,78.6
+COR,Garro MEI,0,4.27,4.48,3,5,100.0,89.5
+VAS,Fernando Diniz TEC,0,4.26,3.07,3,5,100.0,93.5
+BOT,Kaio ZAG,0,4.23,5.48,3,5,66.67,77.8
+COR,Dorival Júnior TEC,0,4.22,4.24,3,5,100.0,100.0
+MIR,Neto Moura MEI,0,4.2,5.2,3,5,0.0,80.6
+Clube 356,Calebe MEI,0,4.2,3.18,3,5,66.67,71.4
+VIT,Fabri ATA,0,4.2,3.26,3,5,66.67,82.4
+Clube 292,Rafinha ZAG,0,4.2,4.2,1,1,33.33,100.0
+FLU,Ignácio ZAG,0,4.17,3.62,3,5,100.0,78.9
+SAN,Gabriel Bontempo MEI,0,4.13,3.12,3,5,33.33,68.0
+Clube 286,Fábio Matias TEC,0,4.12,3.94,3,5,100.0,100.0
+Clube 292,Pepa TEC,0,4.11,3.8,3,5,100.0,100.0
+BAH,Tiago ATA,0,4.07,4.06,3,5,66.67,78.3
+Clube 286,Rodrigo Sam ZAG,0,4.03,3.32,3,5,100.0,87.5
+BOT,Igor Jesus ATA,0,4.03,5.56,3,5,100.0,100.0
+COR,Kayke ATA,0,4.03,2.82,3,5,66.67,62.5
+COR,Matheus Bidu LAT,0,4.0,3.92,3,5,100.0,96.2
+CAM,Cuca TEC,0,4.0,4.48,3,5,100.0,90.5
+SAN,Barreal MEI,0,4.0,6.02,3,5,100.0,93.9
+Clube 292,Sérgio Oliveira MEI,0,4.0,4.06,3,5,33.33,87.5
+PAL,Giay LAT,0,4.0,3.58,3,5,100.0,96.2
+GRE,Lucas Esteves LAT,0,4.0,5.64,3,5,100.0,80.0
+Clube 292,Hereda LAT,0,4.0,5.6,3,5,66.67,90.9
+VAS,Mauricio Lemos ZAG,0,4.0,4.0,2,2,33.33,50.0
+Clube 286,Caíque MEI,0,4.0,3.76,3,5,66.67,84.6
+BAH,Kanu ZAG,0,3.97,4.28,3,5,100.0,85.7
+PAL,Richard Ríos MEI,0,3.97,4.74,3,5,66.67,90.0
+MIR,Gabriel Knesowitsch ZAG,0,3.97,4.72,3,4,100.0,100.0
+COR,Matheus Donelli GOL,0,3.97,4.03,3,4,66.67,80.0
+BAH,Erick Pulga ATA,0,3.93,5.58,3,5,100.0,92.0
+GRE,João Lucas LAT,0,3.93,4.6,3,5,100.0,88.9
+VAS,David ATA,0,3.9,2.72,3,5,66.67,40.9
+CRU,Lucas Romero MEI,0,3.9,3.06,3,5,100.0,100.0
+RBB,Palacios ZAG,0,3.9,3.9,1,1,33.33,50.0
+CAM,Patrick MEI,0,3.9,3.9,2,2,66.67,66.7
+BOT,Renato Paiva TEC,0,3.9,3.53,3,5,100.0,89.5
+FLA,Michael ATA,0,3.9,4.54,3,5,66.67,69.2
+SAN,Diógenes GOL,0,3.9,3.9,1,1,33.33,100.0
+VAS,Nuno Moreira ATA,0,3.9,3.56,3,5,66.67,87.9
+VIT,Romarinho ATA,0,3.9,3.9,2,2,33.33,40.0
+PAL,Weverton GOL,0,3.87,4.1,3,5,100.0,76.9
+PAL,Mayke LAT,0,3.87,2.96,3,5,100.0,100.0
+COR,André MEI,0,3.87,3.36,3,5,100.0,88.9
+PAL,Estêvão ATA,0,3.87,4.4,3,5,66.67,90.9
+Clube 292,Derik Lacerda ATA,0,3.87,3.12,3,5,100.0,100.0
+VIT,Thiago Carpini TEC,0,3.82,4.3,3,5,100.0,96.9
+BOT,Arthur Cabral ATA,0,3.8,3.4,3,5,100.0,85.0
+SAO,Ferreira ATA,0,3.8,5.3,3,5,66.67,85.2
+PAL,Raphael Veiga MEI,0,3.77,3.26,3,5,66.67,76.2
+Clube 286,Adriano Martins ZAG,0,3.73,3.73,3,3,33.33,60.0
+VIT,Léo Pereira ATA,0,3.73,6.56,3,5,100.0,95.0
+INT,Roger Machado TEC,0,3.7,4.37,3,5,100.0,95.7
+PAL,Marcelo Lomba GOL,0,3.7,3.7,2,2,66.67,100.0
+SAO,Calleri ATA,0,3.7,3.7,1,1,33.33,33.3
+RBB,Vinicinho ATA,0,3.7,3.58,3,5,100.0,86.4
+RBB,Thiago Borbas ATA,0,3.67,3.8,3,5,0.0,47.1
+FLU,Manoel ZAG,0,3.67,3.08,3,4,66.67,80.0
+Clube 292,Gabriel GOL,0,3.67,3.06,3,5,66.67,90.5
+Clube 292,Rivera MEI,0,3.67,2.68,3,5,66.67,86.7
+Clube 356,Yago Pikachu MEI,0,3.67,2.7,3,5,33.33,60.7
+BAH,Willian José ATA,0,3.67,7.68,3,5,66.67,83.9
+FLA,Evertton Araújo MEI,0,3.67,2.48,3,5,33.33,73.3
+Clube 354,Vina MEI,0,3.67,3.28,3,5,0.0,53.3
+SAO,Luiz Gustavo MEI,0,3.63,2.58,3,5,100.0,91.7
+COR,José Martínez MEI,0,3.63,2.92,3,5,33.33,66.7
+Clube 354,Lucas Mugni MEI,0,3.6,4.14,3,5,100.0,76.7
+INT,Anthoni GOL,0,3.6,2.6,3,5,66.67,72.2
+PAL,Bruno Rodrigues ATA,0,3.6,3.6,3,3,66.67,50.0
+COR,Hugo LAT,0,3.6,3.78,3,5,100.0,80.0
+FLA,Alex Sandro LAT,0,3.6,4.5,3,5,66.67,90.0
+Clube 354,Bruno Tubarão LAT,0,3.6,3.95,3,4,33.33,57.1
+GRE,Gustavo Quinteros TEC,0,3.58,3.58,3,3,100.0,100.0
+CAM,Lyanco ZAG,0,3.57,4.02,3,5,100.0,100.0
+VAS,GB ATA,0,3.57,4.04,3,5,0.0,45.5
+CAM,Rômulo ZAG,0,3.55,3.55,2,2,66.67,66.7
+BOT,Neto GOL,0,3.55,3.55,2,2,66.67,66.7
+CAM,João Marcelo ATA,0,3.53,2.85,3,4,33.33,57.1
+VIT,Ronald Lopes MEI,0,3.5,3.7,3,5,33.33,72.4
+SAO,Alan Franco ZAG,0,3.5,5.18,3,5,66.67,71.4
+FLU,Isaque MEI,0,3.5,3.5,1,1,33.33,100.0
+BAH,Jean Lucas MEI,0,3.5,3.66,3,5,100.0,93.8
+Clube 356,Allanzinho ATA,0,3.5,3.34,3,5,66.67,87.5
+CRU,Sinisterra ATA,0,3.5,4.9,3,5,100.0,81.8
+VIT,Pepê MEI,0,3.47,5.02,3,5,66.67,57.1
+VIT,Camutanga ZAG,0,3.47,5.16,3,5,100.0,92.3
+SAO,Lucas Moura MEI,0,3.47,3.18,3,5,100.0,100.0
+RBB,Gustavo Marques ZAG,0,3.47,2.56,3,5,100.0,81.8
+SAO,Henrique ATA,0,3.45,3.45,2,2,66.67,66.7
+Clube 292,César Lucena TEC,0,3.44,3.33,3,5,100.0,87.5
+Clube 356,Matheus Pereira MEI,0,3.43,3.24,3,5,100.0,68.8
+Clube 354,Galeano ATA,0,3.4,2.36,3,5,100.0,97.1
+SAO,Arboleda ZAG,0,3.37,5.72,3,5,66.67,87.5
+Clube 286,Wilker Ángel ZAG,0,3.37,3.96,3,5,33.33,58.8
+Clube 292,Du Queiroz MEI,0,3.37,2.9,3,5,33.33,63.6
+BOT,Léo Linck GOL,0,3.37,4.38,3,5,100.0,85.7
+BAH,Michel Araújo MEI,0,3.37,4.44,3,5,100.0,63.6
+CRU,Fabrício Bruno ZAG,0,3.37,7.54,3,5,66.67,93.9
+Clube 292,Daniel Paulista TEC,0,3.35,4.09,3,5,100.0,90.0
+RBB,Andrés Hurtado LAT,0,3.33,3.84,3,5,33.33,73.1
+SAN,Gil ZAG,0,3.33,3.5,3,5,33.33,55.6
+GRE,Arthur Melo MEI,0,3.33,3.68,3,5,100.0,91.7
+CRU,Leonardo Jardim TEC,0,3.32,5.07,3,5,100.0,100.0
+GRE,Cuéllar MEI,0,3.3,3.28,3,5,100.0,87.5
+VAS,João Victor ZAG,0,3.3,3.68,3,5,66.67,80.0
+FLA,Everton ATA,0,3.3,2.8,3,5,100.0,81.0
+COR,Memphis Depay ATA,0,3.3,5.4,3,5,100.0,87.0
+COR,Cacá ZAG,0,3.27,2.3,3,5,100.0,78.9
+Clube 286,Ruan Carneiro GOL,0,3.27,3.32,3,4,100.0,100.0
+BAH,Marcos Felipe GOL,0,3.23,4.14,3,5,100.0,90.9
+Clube 356,Tinga LAT,0,3.23,2.64,3,5,100.0,100.0
+FLU,Ganso MEI,0,3.23,2.32,3,5,66.67,70.6
+Clube 356,Mancuso LAT,0,3.2,2.58,3,5,66.67,92.0
+VAS,Fábio Carille TEC,0,3.2,3.72,3,5,100.0,92.9
+CRU,Kauã Prates LAT,0,3.17,3.5,3,5,100.0,100.0
+RBB,Nathan Mendes LAT,0,3.17,2.44,3,5,66.67,88.2
+SAO,Ryan Francisco ATA,0,3.17,3.76,3,5,100.0,71.4
+CRU,Walace MEI,0,3.13,2.72,3,4,33.33,23.5
+Clube 286,Batalla ATA,0,3.13,4.44,3,5,100.0,90.5
+RBB,Gustavinho MEI,0,3.13,3.36,3,5,100.0,64.3
+FLA,Allan MEI,0,3.13,2.75,3,4,66.67,30.8
+Clube 354,Léo Condé TEC,0,3.13,2.84,3,5,100.0,92.1
+CRU,Jonathan Jesus ZAG,0,3.1,3.06,3,5,100.0,76.9
+SAO,Ferraresi ZAG,0,3.1,4.06,3,5,100.0,87.0
+CRU,Cássio GOL,0,3.1,4.28,3,5,100.0,91.4
+RBB,Guilherme Lopes LAT,0,3.1,2.14,3,5,66.67,90.0
+SAO,André Silva ATA,0,3.07,3.1,3,5,100.0,89.5
+FLU,Guga LAT,0,3.07,4.84,3,5,66.67,94.1
+PAL,Benedetti ZAG,0,3.07,3.07,3,3,100.0,100.0
+CAM,Reinier MEI,0,3.07,3.0,3,5,66.67,55.6
+MIR,Gabriel MEI,0,3.03,4.82,3,5,100.0,83.3
+VAS,Luiz Gustavo ZAG,0,3.03,3.03,3,3,66.67,60.0
+PAL,Vanderlan LAT,0,3.03,3.12,3,5,100.0,94.1
+VAS,Felipe Loureiro TEC,0,3.02,3.02,2,2,66.67,100.0
+Clube 356,Kuscevic ZAG,0,3.0,5.3,3,5,66.67,88.9
+BAH,Everton Ribeiro MEI,0,3.0,2.8,3,5,100.0,90.0
+INT,Victor Gabriel ZAG,0,3.0,2.66,3,5,66.67,92.3
+SAO,Marcos Antônio MEI,0,3.0,2.2,3,5,100.0,78.6
+FLA,De la Cruz MEI,0,3.0,3.42,3,5,66.67,84.2
+Clube 292,Carlos Alberto ATA,0,2.97,2.68,3,5,33.33,55.6
+CAM,Vitor Hugo ZAG,0,2.97,3.5,3,5,100.0,93.8
+FLA,João Victor ZAG,0,2.95,2.95,2,2,66.67,100.0
+RBB,Laquintana ATA,0,2.93,2.16,3,5,33.33,86.4
+Clube 356,Pierre MEI,0,2.93,2.36,3,5,66.67,90.0
+Clube 292,Lucas Lima MEI,0,2.93,2.84,3,5,100.0,90.0
+RBB,Guzmán Rodríguez ZAG,0,2.9,2.34,3,5,66.67,87.0
+Clube 356,Magrão GOL,0,2.9,2.9,2,2,66.67,100.0
+VAS,Léo Jardim GOL,0,2.9,4.22,3,5,100.0,84.8
+COR,Kauê GOL,0,2.9,2.9,1,1,33.33,100.0
+CAM,Gustavo Scarpa MEI,0,2.9,3.08,3,5,66.67,80.0
+Clube 286,Jadson MEI,0,2.9,4.5,3,5,66.67,90.6
+CRU,Ryan Guilherme MEI,0,2.9,2.9,3,3,100.0,100.0
+RBB,Sant'Anna LAT,0,2.9,2.72,3,5,66.67,72.7
+COR,Bahia MEI,0,2.9,2.9,2,2,66.67,100.0
+VIT,Dudu MEI,0,2.9,4.24,3,5,100.0,50.0
+BOT,Joaquín Correa ATA,0,2.87,6.64,3,5,100.0,88.9
+RBB,Pedro Henrique ZAG,0,2.87,3.44,3,5,66.67,83.9
+INT,Clayton Sampaio ZAG,0,2.87,2.42,3,5,100.0,80.0
+PAL,Emiliano Martínez MEI,0,2.87,2.6,3,5,66.67,75.0
+VAS,Jair MEI,0,2.87,2.56,3,5,66.67,70.0
+COR,Talles Magno ATA,0,2.83,2.34,3,5,66.67,83.3
+VAS,Carlos Cuesta ZAG,0,2.83,3.88,3,5,33.33,75.0
+CAM,Igor Rabello ZAG,0,2.83,3.54,3,5,100.0,87.5
+Clube 292,António Oliveira TEC,0,2.81,3.24,3,4,100.0,100.0
+SAN,Willian Arão MEI,0,2.8,2.54,3,5,100.0,83.3
+SAO,Pablo Maia MEI,0,2.8,2.42,3,5,33.33,68.0
+Clube 292,Jefinho MEI,0,2.8,2.8,1,1,33.33,100.0
+Clube 354,Diego LAT,0,2.8,2.42,3,5,100.0,100.0
+INT,Bruno Tabata MEI,0,2.77,2.84,3,5,33.33,83.3
+INT,Ivan GOL,0,2.77,4.8,3,5,66.67,83.3
+SAN,Luisão ZAG,0,2.77,3.2,3,5,66.67,83.3
+Clube 292,Matheusinho MEI,0,2.77,3.28,3,5,100.0,95.5
+MIR,Yago Felipe MEI,0,2.77,3.06,3,5,66.67,77.8
+INT,Vitinho ATA,0,2.73,5.1,3,5,100.0,92.3
+FLU,Otávio MEI,0,2.73,2.73,3,3,33.33,50.0
+GRE,Edenílson MEI,0,2.73,2.38,3,5,66.67,89.3
+COR,Maycon MEI,0,2.73,5.62,3,5,66.67,72.0
+GRE,Kannemann ZAG,0,2.73,1.9,3,5,66.67,72.2
+SAO,Lucas Ferreira MEI,0,2.73,2.28,3,5,100.0,91.7
+MIR,Alex Muralha GOL,0,2.7,3.04,3,5,100.0,85.7
+SAN,Escobar LAT,0,2.7,2.18,3,5,66.67,75.9
+Clube 286,Bernardo ZAG,0,2.7,2.7,1,1,33.33,100.0
+PAL,Luighi ATA,0,2.67,2.0,3,5,66.67,71.4
+Clube 292,Rafael Thyere ZAG,0,2.67,2.5,3,5,66.67,71.4
+Clube 354,Bruno Ferreira GOL,0,2.67,4.38,3,5,100.0,86.2
+Clube 354,Marcos Victor ZAG,0,2.67,4.06,3,5,66.67,93.3
+INT,Vitão ZAG,0,2.67,3.56,3,5,33.33,63.3
+COR,Félix Torres ZAG,0,2.63,4.36,3,5,66.67,80.0
+BAH,David Duarte ZAG,0,2.63,5.02,3,5,100.0,84.6
+Clube 292,Ramon Menezes ZAG,0,2.63,1.88,3,5,66.67,95.2
+VAS,Lucas Piton LAT,0,2.63,3.3,3,5,100.0,85.7
+Clube 356,Gastón Ávila ZAG,0,2.63,4.02,3,5,100.0,91.3
+SAN,Deivid Washington ATA,0,2.63,2.62,3,5,66.67,76.5
+GRE,Monsalve MEI,0,2.63,2.34,3,5,33.33,55.6
+VAS,Lucas Oliveira ZAG,0,2.63,3.22,3,4,100.0,57.1
+COR,Léo Maná LAT,0,2.6,2.6,1,1,33.33,25.0
+Clube 356,Helton Leite GOL,0,2.6,2.6,3,3,100.0,75.0
+Clube 354,Marllon ZAG,0,2.6,1.96,3,5,66.67,86.4
+COR,Angileri LAT,0,2.6,3.56,3,5,0.0,71.4
+Clube 354,Aylon ATA,0,2.6,3.52,3,5,66.67,59.1
+BOT,Gabriel Bahia ZAG,0,2.6,2.6,2,2,33.33,50.0
+PAL,Aníbal Moreno MEI,0,2.57,2.46,3,5,100.0,88.0
+Clube 356,Kervin Andrade MEI,0,2.57,2.46,3,5,66.67,62.5
+INT,Alan Benítez LAT,0,2.57,2.92,3,5,66.67,60.0
+GRE,Ronald MEI,0,2.57,2.57,3,3,66.67,50.0
+SAN,Zé Rafael MEI,0,2.57,3.9,3,5,66.67,84.6
+CRU,Gabriel ATA,0,2.53,3.38,3,5,66.67,60.0
+COR,Héctor Hernández ATA,0,2.53,3.98,3,5,100.0,55.6
+BAH,Rezende MEI,0,2.53,2.84,3,5,66.67,50.0
+VAS,Victor Luis LAT,0,2.53,2.53,3,3,66.67,50.0
+GRE,Alysson ATA,0,2.5,2.44,3,5,100.0,96.4
+MIR,Danielzinho MEI,0,2.5,2.38,3,5,100.0,97.1
+Clube 286,Emerson Galego ATA,0,2.5,2.5,1,1,33.33,50.0
+VIT,Wendell ATA,0,2.5,2.5,1,1,33.33,100.0
+GRE,Arezo ATA,0,2.5,2.84,3,5,66.67,75.0
+FLU,Santi Moreno ATA,0,2.5,2.5,3,3,66.67,75.0
+FLA,Léo Ortiz ZAG,0,2.47,2.98,3,5,100.0,92.3
+Clube 292,Luan Cândido LAT,0,2.47,1.8,3,5,66.67,76.9
+GRE,Nathan MEI,0,2.45,2.45,2,2,66.67,100.0
+Clube 356,Lucas Gazal ZAG,0,2.43,3.2,3,4,66.67,80.0
+PAL,Felipe Anderson MEI,0,2.43,3.86,3,5,100.0,92.6
+Clube 292,Chrystian Barletta ATA,0,2.43,1.9,3,5,66.67,87.9
+Clube 286,Abner ZAG,0,2.43,3.04,3,5,100.0,58.8
+Clube 356,Bruno Pacheco LAT,0,2.43,3.66,3,5,100.0,100.0
+SAN,Alexis Duarte ZAG,0,2.4,2.96,3,5,100.0,100.0
+GRE,Braithwaite ATA,0,2.4,2.44,3,5,66.67,94.1
+FLA,Victor Hugo MEI,0,2.4,2.0,3,5,100.0,77.8
+SAN,Aderlan LAT,0,2.4,2.54,3,5,33.33,76.9
+Clube 292,Igor Cariús LAT,0,2.4,2.62,3,5,100.0,96.0
+Clube 354,Fernando Sobral MEI,0,2.4,2.02,3,5,100.0,78.6
+Clube 286,Cláudio Tencati TEC,0,2.37,3.96,3,5,100.0,80.0
+RBB,Fernando ATA,0,2.37,1.82,3,5,33.33,50.0
+Clube 292,Matheus Alexandre LAT,0,2.37,4.06,3,5,100.0,87.5
+Clube 292,Zé Lucas MEI,0,2.37,1.6,3,5,100.0,87.0
+Clube 286,Reginaldo LAT,0,2.37,4.06,3,5,100.0,81.2
+RBB,Fernando Seabra TEC,0,2.36,3.93,3,5,100.0,100.0
+VIT,Rúben Rodrigues MEI,0,2.35,2.35,2,2,66.67,50.0
+CRU,Gamarra ZAG,0,2.35,2.35,2,2,66.67,100.0
+MIR,Shaylon MEI,0,2.33,2.82,3,5,100.0,81.8
+INT,Diego Rosa MEI,0,2.3,2.02,3,4,66.67,57.1
+MIR,Cristian ATA,0,2.3,1.74,3,5,100.0,93.1
+BAH,Santiago Mingo ZAG,0,2.3,2.3,3,5,100.0,83.9
+SAN,Gabriel Veron ATA,0,2.3,2.06,3,5,66.67,72.2
+BAH,Gabriel Xavier ZAG,0,2.27,2.86,3,5,66.67,63.6
+PAL,Maurício MEI,0,2.27,2.74,3,5,100.0,96.0
+Clube 354,Willian Machado ZAG,0,2.27,3.34,3,5,66.67,87.9
+RBB,Eduardo Santos ZAG,0,2.23,3.94,3,5,100.0,100.0
+Clube 354,Rafael Ramos LAT,0,2.23,3.12,3,5,100.0,95.0
+VIT,Willian Oliveira MEI,0,2.23,3.7,3,5,66.67,77.8
+FLA,Matheus Gonçalves MEI,0,2.23,2.23,3,3,66.67,75.0
+Clube 292,Hyoran MEI,0,2.23,3.46,3,5,66.67,70.0
+Clube 292,Gonçalo Paciência ATA,0,2.23,2.2,3,4,66.67,66.7
+COR,Breno Bidon MEI,0,2.2,2.26,3,5,100.0,90.9
+BOT,Kauan Toledo ATA,0,2.2,2.2,2,2,66.67,100.0
+GRE,Riquelme MEI,0,2.17,2.58,3,5,66.67,88.9
+Clube 286,Marcos Paulo LAT,0,2.17,2.84,3,5,33.33,57.9
+SAN,Caballero ATA,0,2.17,2.62,3,5,0.0,66.7
+BAH,Cauly MEI,0,2.17,1.74,3,5,33.33,72.4
+CRU,Japa MEI,0,2.15,2.15,2,2,33.33,40.0
+Clube 354,Fabiano Souza LAT,0,2.13,3.52,3,5,100.0,90.3
+MIR,Matheus Bianqui MEI,0,2.13,2.6,3,5,100.0,61.5
+VIT,Ricardo Ryller MEI,0,2.13,1.68,3,5,66.67,66.7
+INT,Richard MEI,0,2.13,1.62,3,5,66.67,85.7
+Clube 286,Rafael Bilu ATA,0,2.1,1.76,3,5,100.0,92.3
+COR,Gui Negão ATA,0,2.1,1.66,3,5,66.67,77.3
+Clube 292,Victor Hugo LAT,0,2.1,2.1,1,1,33.33,100.0
+SAN,Rincón MEI,0,2.07,2.8,3,5,100.0,70.6
+COR,Ángel Romero ATA,0,2.07,2.02,3,5,66.67,66.7
+Clube 356,Gustavo Mancha ZAG,0,2.07,2.08,3,5,66.67,91.7
+Clube 356,Brítez ZAG,0,2.07,3.16,3,5,66.67,75.0
+VAS,Sforza MEI,0,2.07,1.92,3,5,66.67,62.5
+Clube 356,Yeison Guzmán MEI,0,2.07,2.07,3,3,66.67,75.0
+COR,Carrillo MEI,0,2.03,2.98,3,5,66.67,77.3
+CAM,Mateus Iseppe MEI,0,2.0,2.0,1,1,33.33,100.0
+VIT,Renzo López ATA,0,2.0,1.84,3,5,66.67,71.4
+BAH,Kayky ATA,0,2.0,2.68,3,5,33.33,68.0
+Clube 354,Guilherme ATA,0,2.0,2.7,3,4,33.33,66.7
+BOT,Marlon Freitas MEI,0,1.97,2.8,3,5,66.67,71.0
+SAN,Matheus Bachi TEC,0,1.94,1.94,1,1,33.33,100.0
+Clube 356,Rodrigo Santos MEI,0,1.93,2.3,3,5,66.67,62.5
+BAH,Sanabria ATA,0,1.93,3.02,3,5,66.67,62.5
+RBB,Gabriel MEI,0,1.93,1.88,3,5,100.0,90.0
+Clube 286,Giovanny ATA,0,1.93,2.24,3,5,66.67,78.9
+CAM,Gabriel Delfim GOL,0,1.9,1.9,1,1,33.33,100.0
+BOT,Mastriani ATA,0,1.9,1.6,3,5,66.67,60.0
+SAN,Diego Pituca MEI,0,1.9,1.58,3,5,66.67,70.0
+MIR,Guilherme Marques MEI,0,1.9,3.32,3,5,100.0,100.0
+VAS,Adson MEI,0,1.9,1.48,3,5,66.67,66.7
+COR,Matheuzinho LAT,0,1.87,2.74,3,5,100.0,93.5
+Clube 292,Chico ZAG,0,1.87,2.58,3,5,66.67,84.6
+CRU,Matheus Henrique MEI,0,1.87,1.64,3,5,66.67,64.7
+FLU,Paulo Baya ATA,0,1.87,1.62,3,5,66.67,72.2
+Clube 356,Lucas Crispim MEI,0,1.87,1.92,3,5,100.0,100.0
+Clube 292,Ignacio Ramírez ATA,0,1.87,1.6,3,4,33.33,50.0
+BOT,Matheus Martins ATA,0,1.83,1.78,3,5,66.67,84.6
+Clube 286,Lucas Fernandes MEI,0,1.83,2.58,3,5,100.0,83.3
+Clube 286,Nenê MEI,0,1.83,3.5,3,5,100.0,87.0
+FLA,Erick Pulgar MEI,0,1.83,2.0,3,5,66.67,73.3
+Clube 356,Lucas Sasha MEI,0,1.83,3.04,3,5,66.67,96.2
+Clube 292,Atencio MEI,0,1.83,1.52,3,5,66.67,61.1
+CRU,Lucas Silva MEI,0,1.83,1.38,3,5,0.0,67.6
+PAL,Paulinho ATA,0,1.83,1.44,3,5,33.33,71.4
+COR,Felipe Longo GOL,0,1.8,3.34,3,5,100.0,83.3
+BAH,Caio Alexandre MEI,0,1.8,1.92,3,5,33.33,81.0
+BOT,Rwan Cruz ATA,0,1.8,1.68,3,4,100.0,80.0
+VAS,Tchê Tchê MEI,0,1.8,2.1,3,5,66.67,82.1
+Clube 286,Jandrei GOL,0,1.8,2.16,3,5,100.0,81.2
+COR,Ryan MEI,0,1.8,2.3,3,5,66.67,75.0
+RBB,Henry Mosquera ATA,0,1.77,1.66,3,5,66.67,94.1
+SAO,Young GOL,0,1.77,1.77,3,3,100.0,100.0
+FLA,Saúl MEI,0,1.77,2.24,3,5,100.0,93.3
+Clube 286,Luis Mandaca MEI,0,1.77,3.34,3,5,100.0,100.0
+CAM,Júnior Santos ATA,0,1.77,3.16,3,5,33.33,62.5
+Clube 356,Pablo Roberto MEI,0,1.75,1.75,2,2,33.33,33.3
+Clube 356,Marinho ATA,0,1.73,1.7,3,5,100.0,87.5
+Clube 354,Lucas Lima MEI,0,1.73,1.8,3,5,100.0,60.0
+BAH,Fredi Lippert ZAG,0,1.7,1.7,1,1,33.33,100.0
+INT,Gustavo Prado MEI,0,1.7,1.52,3,5,100.0,76.5
+MIR,Maceió ATA,0,1.7,1.68,3,4,66.67,66.7
+Clube 286,Gilberto ATA,0,1.7,2.06,3,5,100.0,61.9
+VIT,Kike Saverio ATA,0,1.7,1.7,1,1,33.33,50.0
+GRE,Jardiel ATA,0,1.7,1.7,2,2,33.33,50.0
+INT,Luis Otávio MEI,0,1.67,2.88,3,5,33.33,73.7
+Clube 286,Vitor Pernambuco ATA,0,1.67,1.67,3,3,100.0,100.0
+BAH,Erick MEI,0,1.63,1.92,3,5,66.67,80.0
+VAS,Puma Rodríguez LAT,0,1.63,2.56,3,5,33.33,78.3
+CAM,Bernard MEI,0,1.63,2.6,3,5,66.67,56.5
+VAS,Thiago Mendes MEI,0,1.63,1.63,3,3,66.67,42.9
+VAS,Paulinho MEI,0,1.63,2.45,3,4,66.67,40.0
+Clube 356,David Luiz ZAG,0,1.63,3.82,3,5,100.0,83.3
+GRE,Noriega MEI,0,1.6,1.9,3,5,33.33,76.9
+SAO,Luan Vinícius MEI,0,1.6,1.6,3,3,66.67,50.0
+PAL,Larson MEI,0,1.6,1.6,1,1,33.33,100.0
+CRU,Arroyo ATA,0,1.6,3.82,3,5,100.0,84.6
+Clube 356,Kayke Queiroz ATA,0,1.6,1.6,1,1,33.33,50.0
+INT,Enner Valencia ATA,0,1.57,1.3,3,5,66.67,64.3
+FLA,Plata ATA,0,1.57,3.44,3,5,66.67,77.8
+FLU,Lavega ATA,0,1.55,1.55,2,2,66.67,100.0
+FLA,Luiz Araújo ATA,0,1.53,1.62,3,5,66.67,87.9
+BOT,Kadir ATA,0,1.53,1.53,3,3,66.67,75.0
+Clube 286,Peixoto MEI,0,1.53,2.0,3,5,100.0,90.9
+INT,Rochet GOL,0,1.5,1.2,3,5,100.0,93.3
+FLU,Riquelme Felipe ATA,0,1.5,1.25,3,4,100.0,80.0
+INT,Yago Noal MEI,0,1.5,1.5,1,1,33.33,50.0
+SAN,Mateus Xavier MEI,0,1.5,1.5,1,1,33.33,33.3
+VAS,Lukas Zuccarello MEI,0,1.5,1.5,1,1,33.33,50.0
+MIR,Zé Vitor MEI,0,1.5,1.5,1,1,33.33,50.0
+Clube 286,Scatolin ATA,0,1.5,1.5,1,1,33.33,100.0
+VAS,Hugo Moura MEI,0,1.5,1.68,3,5,33.33,66.7
+SAO,Paulinho ATA,0,1.5,1.5,1,1,33.33,33.3
+Clube 356,Emmanuel Martínez MEI,0,1.5,2.14,3,5,66.67,66.7
+Clube 292,Romarinho ATA,0,1.5,1.32,3,5,100.0,79.2
+GRE,Camilo MEI,0,1.47,2.2,3,5,33.33,80.0
+Clube 354,Richardson MEI,0,1.47,1.0,3,5,33.33,60.0
+Clube 354,Matheus Bahia LAT,0,1.47,2.64,3,5,100.0,92.3
+VIT,Felipe Cardoso MEI,0,1.45,1.45,2,2,66.67,66.7
+CRU,João Marcelo ZAG,0,1.45,1.45,2,2,66.67,50.0
+SAO,Cédric Soares LAT,0,1.43,2.92,3,5,100.0,72.0
+CAM,Fausto Vera MEI,0,1.43,2.52,3,5,33.33,80.0
+GRE,Cristian Olivera ATA,0,1.43,1.46,3,5,100.0,100.0
+VAS,Matheus França ATA,0,1.43,1.46,3,5,33.33,71.4
+Clube 292,Adriel MEI,0,1.43,1.43,3,3,66.67,75.0
+BOT,Gregore MEI,0,1.43,2.48,3,5,100.0,100.0
+FLU,Lima MEI,0,1.4,0.98,3,5,33.33,76.9
+INT,Pablo LAT,0,1.4,1.4,1,1,33.33,100.0
+SAN,Tiquinho Soares ATA,0,1.4,2.44,3,5,66.67,81.5
+VAS,Loide Augusto ATA,0,1.4,2.22,3,5,33.33,50.0
+VAS,Léo Jacó ATA,0,1.4,1.4,1,1,33.33,100.0
+SAO,Oscar MEI,0,1.4,2.0,3,5,66.67,83.3
+Clube 286,Giraldo MEI,0,1.37,1.22,3,5,0.0,57.1
+COR,João Pedro ZAG,0,1.37,3.22,3,5,100.0,87.5
+FLU,Cano ATA,0,1.37,3.18,3,5,100.0,95.0
+VAS,Alex Teixeira ATA,0,1.37,1.32,3,4,33.33,50.0
+Clube 286,Natã ZAG,0,1.35,1.35,2,2,66.67,100.0
+GRE,Villasanti MEI,0,1.33,1.88,3,5,100.0,86.7
+SAO,Alisson MEI,0,1.33,1.14,3,5,66.67,80.0
+Clube 354,Fernandinho ATA,0,1.33,1.9,3,5,100.0,95.0
+VIT,Lucas Braga ATA,0,1.33,2.0,3,5,100.0,85.0
+Clube 356,Diogo Barbosa LAT,0,1.33,3.6,3,5,33.33,81.2
+RBB,Juninho Capixaba LAT,0,1.3,2.88,3,5,100.0,100.0
+FLU,Everaldo ATA,0,1.3,1.7,3,5,100.0,78.6
+BOT,John GOL,0,1.27,4.42,3,5,100.0,100.0
+PAL,Andreas Pereira MEI,0,1.27,2.92,3,5,100.0,72.7
+SAN,Luca Meirelles ATA,0,1.25,1.25,2,2,33.33,28.6
+Clube 356,Moisés ATA,0,1.23,1.24,3,5,66.67,80.0
+INT,Ronaldo MEI,0,1.23,2.04,3,5,100.0,73.3
+SAO,Patryck LAT,0,1.23,2.4,3,5,100.0,100.0
+GRE,Rodrigo Ely ZAG,0,1.2,1.2,1,1,33.33,50.0
+Clube 292,Lucas Cunha ZAG,0,1.2,2.15,3,4,66.67,66.7
+BOT,Elias Manoel ATA,0,1.2,1.2,1,1,33.33,50.0
+Clube 356,Lucero ATA,0,1.2,2.44,3,5,33.33,58.3
+SAN,Brahimi ATA,0,1.2,1.2,1,1,33.33,100.0
+FLU,Lezcano MEI,0,1.17,1.17,3,3,66.67,75.0
+FLA,Juninho ATA,0,1.17,1.08,3,5,100.0,78.6
+Clube 292,Fabricio Domínguez MEI,0,1.17,1.18,3,4,100.0,100.0
+Clube 354,Matheus Araújo MEI,0,1.17,1.94,3,5,66.67,66.7
+VAS,Lucas Freitas ZAG,0,1.17,2.94,3,5,66.67,72.2
+CRU,Wanderson ATA,0,1.13,1.58,3,5,66.67,81.5
+MIR,Chico da Costa ATA,0,1.1,0.86,3,5,100.0,84.2
+Clube 354,Lourenço MEI,0,1.1,2.24,3,5,33.33,73.3
+VAS,Robert Renan ZAG,0,1.07,3.16,3,5,33.33,66.7
+VIT,Carlinhos ATA,0,1.07,2.38,3,4,33.33,57.1
+BOT,Allan MEI,0,1.07,1.24,3,5,66.67,50.0
+BOT,Chris Ramos ATA,0,1.03,2.94,3,5,100.0,90.9
+Clube 286,Matheus Babi ATA,0,1.03,1.32,3,5,100.0,72.2
+INT,Óscar Romero MEI,0,1.03,1.36,3,5,66.67,82.4
+SAN,Rollheiser MEI,0,1.03,1.9,3,5,66.67,82.9
+GRE,Alex Santana MEI,0,1.03,1.08,3,4,0.0,40.0
+VAS,Leandrinho LAT,0,1.0,1.0,1,1,33.33,50.0
+VAS,Garré ATA,0,1.0,1.0,3,3,33.33,37.5
+MIR,Chico Kim MEI,0,0.97,1.58,3,5,33.33,53.8
+INT,Bruno Henrique MEI,0,0.97,2.78,3,5,66.67,78.6
+VAS,Mateus Carvalho MEI,0,0.97,1.04,3,5,33.33,55.6
+SAO,Lucca ATA,0,0.97,1.9,3,5,100.0,87.5
+INT,Lucca ATA,0,0.97,1.22,3,5,100.0,100.0
+BOT,Newton MEI,0,0.93,2.78,3,5,33.33,56.5
+BOT,Patrick de Paula MEI,0,0.93,1.32,3,5,100.0,100.0
+Clube 354,Éder ZAG,0,0.93,0.93,3,3,100.0,100.0
+RBB,Praxedes MEI,0,0.9,1.54,3,5,33.33,57.1
+RBB,Eric Ramires MEI,0,0.87,3.66,3,5,33.33,83.3
+Clube 354,Rômulo MEI,0,0.87,0.96,3,5,100.0,62.5
+SAN,Kevyson LAT,0,0.87,1.7,3,5,33.33,66.7
+CRU,Kaique Kenji ATA,0,0.87,0.87,3,3,100.0,100.0
+SAN,Robinho Jr. ATA,0,0.87,1.9,3,5,100.0,78.6
+INT,Raykkonen ATA,0,0.85,0.85,2,2,66.67,33.3
+BAH,Ruan Pablo ATA,0,0.85,0.85,2,2,0.0,40.0
+Clube 292,Lucas Kal MEI,0,0.83,1.02,3,5,66.67,45.5
+MIR,Roni MEI,0,0.83,0.83,3,3,66.67,37.5
+GRE,Aravena ATA,0,0.83,1.72,3,5,100.0,90.9
+CRU,Eduardo MEI,0,0.83,1.38,3,5,66.67,51.7
+VIT,Osvaldo ATA,0,0.83,0.78,3,5,66.67,65.4
+CRU,Rodriguinho MEI,0,0.8,0.8,1,1,33.33,20.0
+SAO,Felipe Negrucci MEI,0,0.73,0.98,3,4,66.67,80.0
+Clube 356,Matheus Rossetto MEI,0,0.7,0.9,3,5,33.33,41.2
+BAH,Kauê Furquim ATA,0,0.7,0.7,1,1,33.33,100.0
+Clube 286,Hudson MEI,0,0.7,0.7,2,2,33.33,50.0
+SAN,Hyan MEI,0,0.7,0.7,2,2,66.67,100.0
+CRU,Marquinhos ATA,0,0.7,1.38,3,5,100.0,70.6
+FLU,Davi Schuindt ZAG,0,0.7,0.7,2,2,66.67,100.0
+BOT,Kauan Lindes MEI,0,0.7,0.7,1,1,33.33,100.0
+MIR,Fabrício Daniel ATA,0,0.67,1.24,3,5,100.0,87.5
+FLA,Wallace Yan ATA,0,0.63,0.54,3,5,66.67,85.7
+BOT,Raul GOL,0,0.6,0.6,2,2,66.67,100.0
+Clube 356,Weverson LAT,0,0.6,0.6,3,3,100.0,75.0
+CRU,Rayan Lelis ATA,0,0.6,0.6,1,1,33.33,100.0
+CRU,Bolasie ATA,0,0.5,1.34,3,5,33.33,50.0
+FLA,Ayrton Lucas LAT,0,0.5,2.72,3,5,100.0,87.5
+BOT,Huguinho MEI,0,0.5,0.5,1,1,33.33,100.0
+Clube 286,Marlon ATA,0,0.5,0.5,1,1,33.33,100.0
+VAS,Guilherme Estrella MEI,0,0.5,0.5,1,1,33.33,100.0
+CAM,Isaac ATA,0,0.5,0.5,1,1,33.33,100.0
+PAL,Thalys ATA,0,0.5,0.5,1,1,33.33,50.0
+VAS,Vegetti ATA,0,0.47,0.72,3,5,66.67,87.5
+FLU,Bernal MEI,0,0.4,1.84,3,5,33.33,65.0
+Clube 354,Pedro Henrique ATA,0,0.4,1.38,3,5,100.0,92.3
+VAS,Daniel Fuzato GOL,0,0.3,0.3,1,1,33.33,33.3

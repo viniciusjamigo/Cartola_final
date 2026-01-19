@@ -154,8 +154,5 @@ Thumbs.db
 
 # Project specific
 logs/
-*.csv
-!time_ideal_rodada32.csv
-!teste.csv
-# Se quiser ignorar arquivos de dados grandes, mas manter a estrutura
+# CSVs estão sendo incluídos agora
 # data/
